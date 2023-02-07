@@ -4,17 +4,12 @@
  */
 package ejemplo;
 
-/**
- *
- * @author gerar
- */
-public class Ejemplo {
-
-    /**
-     * @param args the command line arguments
-     */
+public class main {
     public static void main(String[] args) {
-        // TODO code application logic here
+        for (int i = 0; i < 10; i++) {
+                    System.out.println("imprime plox");
+
+        }
     }
     
 }
