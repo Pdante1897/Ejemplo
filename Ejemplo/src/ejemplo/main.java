@@ -11,6 +11,10 @@ public class main {
                     
         }
         System.out.println("Se sumo otro integrante al grupo");
+
+        if(true){
+            System.out.println("Este es un if");
+        }
     }
     
 }
